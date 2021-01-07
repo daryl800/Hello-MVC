@@ -168,8 +168,7 @@
     <Content Include="Views\Home\CustomerList.cshtml" />
     <Content Include="Views\Home\ViewCustomer.cshtml" />
     <Content Include="Views\Home\EditCustomer.cshtml" />
-    <Content Include="Views\Home\AddCustomer2.cshtml" />
-    <Content Include="Views\Home\AddCustomer3.cshtml" />
+    <Content Include="Views\Home\DeleteCustomer.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
